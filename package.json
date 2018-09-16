@@ -1,0 +1,18 @@
+{
+  "name": "nutrition",
+  "version": "1.0.0",
+  "description": "Nutrition bot engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Yaroslav Kasp <kaspyar@yahoo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "sqlite3": "^4.0.2"
+  }
+}
